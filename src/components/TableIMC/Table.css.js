@@ -58,3 +58,16 @@ export const Li = styled.li`
     }
 
 `
+export const ContainerInfo = styled.div`
+    width: 80%;
+    margin: 1rem auto;
+    padding: 1rem;
+    font-size: 1.2rem;
+    color: #fff; 
+    p span {
+        margin-right: 1rem;
+    }
+    p a {
+        color: yellow;
+    }
+`

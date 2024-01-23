@@ -24,6 +24,17 @@ const Table = () => {
         }
     
       </Style.ListInfo>
+
+      <Style.ContainerInfo>
+        <p>
+          <span>Fonte:</span>
+          <i>
+            <a href="https://bvsms.saude.gov.br/bvs/dicas/215_obesidade.html" target="_blank" rel="OMS - ">Organização Mundial da Saúde</a>
+          </i>
+        </p>
+        
+      </Style.ContainerInfo>
+
     </Style.TableContainer>
   )
 }
