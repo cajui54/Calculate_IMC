@@ -11,6 +11,8 @@ altura e peso e te mostra sua classificação baseado em uma tabela
 - Context-API
 - React-Scroll
 
+## Deploy of Application
+url:(https://imc-jks.vercel.app/);
 
 ### Para Executar Projeto
 - `npm start`
